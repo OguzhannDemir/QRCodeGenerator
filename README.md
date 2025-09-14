@@ -3,24 +3,24 @@
 Bu proje, kullanıcıdan alınan metni veya URL'yi QR koda dönüştüren basit bir web uygulamasıdır. API üzerinden QR kodu oluşturur ve ekranda gösterir.
 
 🚀 Özellikler
-Kullanıcıdan metin veya URL alma
++Kullanıcıdan metin veya URL alma
 
-QR kodu oluşturma ve görüntüleme
++QR kodu oluşturma ve görüntüleme
 
-Hatalı girişte görsel uyarı
++Hatalı girişte görsel uyarı
 
 🛠️ Kullanılan Teknolojiler
-HTML
+•HTML
 
-CSS
+•CSS
 
-JavaScript
+•JavaScript
 
-GoQR API
+•GoQR API
 
 📦 Kurulum
-Projeyi klonlayın veya indirin.
+1.Projeyi klonlayın veya indirin.
 
-index.html dosyasını tarayıcıda açın.
+2.index.html dosyasını tarayıcıda açın.
 
-Metni girin ve Kod Üret butonuna tıklayın.
+3.Metni girin ve Kod Üret butonuna tıklayın.
